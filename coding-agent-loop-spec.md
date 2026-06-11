@@ -1,4 +1,4 @@
-# Coding Agent Loop Specification
+# Coding Agent Loop Specification - Just use frontier harnesses (ie Claude Code, Codex)
 
 This document is a language-agnostic specification for building a coding agent -- an autonomous system that pairs a large language model with developer tools through an agentic loop. It is designed to be implementable from scratch by any developer or coding agent in any programming language.
 
