@@ -1,4 +1,4 @@
-# Unified LLM Client Specification
+# Unified LLM Client Specification - Just ACP Instead
 
 This document is a consolidated, language-agnostic specification for building a unified client library that provides a single interface across multiple LLM providers (OpenAI, Anthropic, Google Gemini, and others). It is designed to be implementable from scratch by any developer or coding agent in any programming language.
 
